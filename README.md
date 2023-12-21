@@ -1,6 +1,6 @@
  ## Welcome to Gamol Studio 👋
 
-  * 🙋‍♀️ We are an AI based reserch and development company based in Africa.
+  * 🙋‍♀️ We are an AI based research and development company based in Africa.
   * 💎 Read more about us [here](https://www.gamolstudio.com/)
   * ▶️ Download our flagship product [here](https://play.google.com/store/apps/details?id=com.checkoja.checkojaapp)
   * 🌈 You can contribute by adding changes to the repo that aligns with your jurisdiction.
